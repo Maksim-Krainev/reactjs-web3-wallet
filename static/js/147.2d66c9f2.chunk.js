@@ -1,0 +1,1 @@
+(self.webpackChunkreactjs_web3_wallet=self.webpackChunkreactjs_web3_wallet||[]).push([[147],{5340:()=>{},9838:()=>{}}]);
